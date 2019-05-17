@@ -1,0 +1,853 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"serveStatic"
+			],
+			[
+				"A350F",
+				"A350FB"
+			],
+			[
+				"fa",
+				"fa-2x"
+			],
+			[
+				"inli",
+				"inline\tdisplay"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"left",
+				"border-left\tproperty"
+			],
+			[
+				"conn",
+				"connectFromField"
+			],
+			[
+				"max",
+				"maxDepth"
+			],
+			[
+				"confo",
+				"connectFromField"
+			],
+			[
+				"airline",
+				"air_airlines"
+			],
+			[
+				"gr",
+				"graphLookup"
+			],
+			[
+				"ave",
+				"average_rating"
+			],
+			[
+				"fla",
+				"flashmessage--info"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"cen",
+				"center-align"
+			],
+			[
+				"win",
+				"window"
+			],
+			[
+				"reside",
+				"resident-list"
+			],
+			[
+				"re",
+				"resident-list"
+			],
+			[
+				"all",
+				"allResidents"
+			],
+			[
+				"sor",
+				"sortBy"
+			],
+			[
+				"al",
+				"allStatement"
+			],
+			[
+				"invoi",
+				"invoices"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"year",
+				"yearFilter"
+			],
+			[
+				"sele",
+				"selectYearValue"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"get",
+				"getYearList"
+			],
+			[
+				"accoun",
+				"accountingPage"
+			],
+			[
+				"for",
+				"formatDescription"
+			],
+			[
+				"sta",
+				"statement"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"this",
+				"thisInvoices"
+			],
+			[
+				"thi",
+				"thisInvoices"
+			],
+			[
+				"stat",
+				"statement-page"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"acc",
+				"accounting-page"
+			],
+			[
+				"showb",
+				"showBtnPrintAll"
+			],
+			[
+				"show",
+				"showDetailsTable"
+			],
+			[
+				"format",
+				"formatAmount"
+			],
+			[
+				"pendi",
+				"PENDIENTE"
+			],
+			[
+				"amount",
+				"amount"
+			],
+			[
+				"monto",
+				"MONTO"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"btn",
+				"btn"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"sho",
+				"showMenu"
+			],
+			[
+				"invoiceid",
+				"invoiceID"
+			],
+			[
+				"comp",
+				"component"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"old",
+				"oldInvoices"
+			],
+			[
+				"data",
+				"dataString"
+			],
+			[
+				"ex",
+				"extraordinaryInvoice"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"dele",
+				"delete-button"
+			],
+			[
+				"mon",
+				"mongoDbObj"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"top",
+				"padding-top"
+			],
+			[
+				"ON",
+				"ON"
+			],
+			[
+				"no",
+				"no-margin"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"factu",
+				"facturacion"
+			],
+			[
+				"del",
+				"deleteConduce"
+			],
+			[
+				"date",
+				"dateSelected"
+			],
+			[
+				"l",
+				"log4js"
+			],
+			[
+				"produ",
+				"productQuantityChange"
+			],
+			[
+				"start",
+				"startMongoServer"
+			],
+			[
+				"producpre",
+				"productPrice"
+			],
+			[
+				"produc",
+				"productName"
+			],
+			[
+				"producpri",
+				"productPrice"
+			],
+			[
+				"producnam",
+				"productName"
+			],
+			[
+				"tota",
+				"totalRaciones"
+			],
+			[
+				"fe",
+				"fechaFacturacion"
+			],
+			[
+				"feha",
+				"fechaRelacion"
+			],
+			[
+				"mar",
+				"margin-sm"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"fecba",
+				"fechaBatch"
+			],
+			[
+				"upda",
+				"updateConduce"
+			],
+			[
+				"sear",
+				"searchConduce"
+			],
+			[
+				"yy",
+				"YYYY-MM-DD"
+			],
+			[
+				"mo",
+				"month"
+			],
+			[
+				"list",
+				"listFacFinal"
+			],
+			[
+				"lis",
+				"listFacFinal"
+			],
+			[
+				"factur",
+				"facturasFinales"
+			],
+			[
+				"factura",
+				"factura-batch"
+			],
+			[
+				"up",
+				"updateNextConduceToThis"
+			],
+			[
+				"border",
+				"border: "
+			],
+			[
+				"center",
+				"center-text"
+			],
+			[
+				"Rela",
+				"Relación"
+			],
+			[
+				"pe",
+				"periodoRelacion"
+			],
+			[
+				"ri",
+				"right-text"
+			],
+			[
+				"rig",
+				"right-text"
+			],
+			[
+				"temp",
+				"tempArray"
+			],
+			[
+				"cond",
+				"conducesList"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"ov",
+				"overflow-x: "
+			],
+			[
+				"con",
+				"conducesList"
+			],
+			[
+				"cre",
+				"createRelacion"
+			],
+			[
+				"YYYY",
+				"YYYY-MM-DD"
+			],
+			[
+				"cente",
+				"center-text"
+			],
+			[
+				"star",
+				"startOfMonth"
+			],
+			[
+				"clien",
+				"clientRNC"
+			],
+			[
+				"total",
+				"totalGeneral"
+			],
+			[
+				"itbi",
+				"itbisTotal"
+			],
+			[
+				"ge",
+				"getItbisTotal"
+			],
+			[
+				"tem",
+				"tempArray"
+			],
+			[
+				"pad",
+				"padding: "
+			],
+			[
+				"bac",
+				"background-color: "
+			],
+			[
+				"cent",
+				"center-text"
+			],
+			[
+				"datos-centro",
+				"datos-centro__right"
+			],
+			[
+				"next",
+				"nextConduce"
+			],
+			[
+				"codi",
+				"codigoCentro"
+			],
+			[
+				"direc",
+				"directorCentro"
+			],
+			[
+				"nomcen",
+				"nombreCentro"
+			],
+			[
+				"mongo",
+				"mongoDbObj"
+			],
+			[
+				"conne",
+				"connectMongo"
+			],
+			[
+				"co",
+				"connectMongo"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/components/Home.vue",
+			"settings":
+			{
+				"buffer_size": 5527,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 342.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pret",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colorsu",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 420.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/rfeliciano/webdev/alfred-project-client",
+		"/C/Users/rfeliciano/webdev/alfred-project-client/public",
+		"/C/Users/rfeliciano/webdev/alfred-project-client/src",
+		"/C/Users/rfeliciano/webdev/alfred-project-client/src/components"
+	],
+	"file_history":
+	[
+		"/C/Users/rfeliciano/webdev/vue_test/src/components/HelloWorld.vue",
+		"/C/Users/rfeliciano/webdev/zorrilla-project/node_modules/crypto-browserify/example/bundle.js",
+		"/C/Users/rfeliciano/webdev/zorrilla-project/.babelrc",
+		"/C/Users/rfeliciano/M121/addFields_stage.js",
+		"/C/Users/rfeliciano/M121/cursorlike_stages.js",
+		"/C/Users/rfeliciano/M121/chapter_4_core_aggregation_multidimensional_grouping/facets/singleQueryFacets.sh",
+		"/C/Users/rfeliciano/M121/chapter_4_core_aggregation_multidimensional_grouping/companies_dataset/companies.json",
+		"/C/Users/rfeliciano/M121/chapter_3_core_aggregation_combining_information/lookup_stage.js",
+		"/C/Users/rfeliciano/Desktop/movies_inserts.js",
+		"/L/APP/productos.json",
+		"/C/Users/rfeliciano/webdev/elducado-app/js/resident-list.js",
+		"/C/Users/rfeliciano/webdev/elducado-app/resident-list.html",
+		"/C/Users/rfeliciano/webdev/elducado-app/package.json",
+		"/C/Users/rfeliciano/webdev/elducado-app/statement.html",
+		"/C/Users/rfeliciano/webdev/elducado-app/js/statement.js",
+		"/C/Users/rfeliciano/webdev/elducado-app/js/accounting.js",
+		"/C/Users/rfeliciano/webdev/zorrilla-project/src/router/index.js",
+		"/C/Users/rfeliciano/webdev/zorrilla-project/src/components/Factura.vue",
+		"/C/Users/rfeliciano/Documents/Arduino/libraries/ESP8266-Websocket/MD5.h",
+		"/C/Users/rfeliciano/Documents/Arduino/libraries/ESP8266-Websocket/MD5.c",
+		"/C/Users/rfeliciano/webdev/vue-nw-seed_/test.html",
+		"/C/Users/rfeliciano/webdev/utilities/ping.js",
+		"/C/Users/rfeliciano/webdev/zorrilla-project/version-file-description",
+		"/C/Users/rfeliciano/webdev/zorrilla-project/src/components/FacFinal.vue",
+		"/C/Users/rfeliciano/webdev/vue-nw-seed/src/assets/bootstrap-alerts.css",
+		"/C/Users/rfeliciano/webdev/vue-nw-seed/package.json",
+		"/C/Users/rfeliciano/webdev/vue-nw-seed/todo",
+		"/C/Users/rfeliciano/webdev/vue-nw-seed/src/components/RelacionPrint.vue",
+		"/C/Users/rfeliciano/webdev/vue-nw-seed/src/components/Relacion.vue",
+		"/C/Users/rfeliciano/webdev/vue-nw-seed/src/components/FacFinal.vue",
+		"/C/Users/rfeliciano/webdev/vue-nw-seed/src/components/Header.vue",
+		"/C/Users/rfeliciano/webdev/vue-nw-seed/src/components/FacturaBatch.vue",
+		"/C/Users/rfeliciano/webdev/vue-nw-seed/src/components/Productos.vue",
+		"/C/Users/rfeliciano/webdev/vue-nw-seed/src/components/Facturacion.vue",
+		"/C/Users/rfeliciano/webdev/vue-nw-seed/src/router/index.js",
+		"/C/Users/rfeliciano/webdev/vue-nw-seed/src/main.js",
+		"/C/Users/rfeliciano/webdev/vue-nw-seed/src/components/Factura.vue",
+		"/C/Users/rfeliciano/webdev/vue-nw-seed/index.html",
+		"/C/Users/rfeliciano/webdev/vue-nw-seed/src/components/Home.vue",
+		"/C/Users/rfeliciano/webdev/vue-nw-seed/src/assets/css-helpers.css",
+		"/C/Users/rfeliciano/webdev/vue-nw-seed/src/App.vue",
+		"/C/Users/rfeliciano/webdev/vue-nw-seed/src/components/DatosEmpresa.vue",
+		"/C/Users/rfeliciano/webdev/vue-nw-seed/src/components/FacFinalPrint.vue",
+		"/C/Users/rfeliciano/webdev/vue-nw-seed/build/webpack.dev.conf.js",
+		"/C/Users/rfeliciano/webdev/vue-nw-seed/build/webpack.prod.conf.js",
+		"/C/Users/rfeliciano/webdev/vue-nw-seed/build/webpack.base.conf.js",
+		"/C/Users/rfeliciano/webdev/vue-nw-seed/.eslintignore",
+		"/C/Users/rfeliciano/webdev/vue-nw-seed/.eslintrc.js",
+		"/C/Users/rfeliciano/webdev/school-invoice-app/dist/css-helpers.css",
+		"//dr_nas/dr_it/DB_JSON/addbatchbk_ge_feb.json",
+		"/C/Users/rfeliciano/webdev/zk-sdk-test/app.js",
+		"/C/Users/rfeliciano/Documents/Projects/TestConnection/TestConnection/Program - Copy",
+		"/C/Users/rfeliciano/Downloads/zkteco SDK/Communication Protocol SDK(64Bit Ver6.2.4.11)/Demo/C#/TFT_x64/UserInfo/UserInfoMain.cs",
+		"/C/Users/rfeliciano/Downloads/zkteco SDK/Communication Protocol SDK(64Bit Ver6.2.4.11)/Demo/C#/TFT_x64/Device Management/DeviceMain.cs",
+		"/C/Users/rfeliciano/Downloads/zkteco SDK/Communication Protocol SDK(64Bit Ver6.2.4.11)/Demo/C#/TFT_x64/RTEvents/RTEventsMain.cs",
+		"/C/Users/rfeliciano/Downloads/zkteco SDK/Communication Protocol SDK(32Bit Ver6.2.4.11)/Demo/C#/Black&White/UserInfo/UserInfoMain.cs",
+		"/C/Users/rfeliciano/Downloads/zkteco SDK/Communication Protocol SDK(32Bit Ver6.2.4.11)/Demo/C#/Black&White/UserInfo/Program.cs",
+		"/C/Users/rfeliciano/Downloads/zkteco SDK/Communication Protocol SDK(32Bit Ver6.2.4.11)/Demo/C#/Black&White/Device Management/DeviceMain.cs",
+		"/C/Users/rfeliciano/webdev/addbatch/app.js",
+		"/C/Users/rfeliciano/webdev/addbatch/scss/style.scss",
+		"/C/Users/rfeliciano/webdev/addbatch/css/style.css",
+		"/C/Users/rfeliciano/webdev/addbatch/index.html",
+		"/C/Users/rfeliciano/webdev/addbatch/version_info",
+		"/C/Users/rfeliciano/webdev/addbatch/README.md",
+		"/C/Users/rfeliciano/webdev/addbatch/build.js",
+		"/C/Users/rfeliciano/webdev/addbatch/todo",
+		"/C/Users/rfeliciano/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/rfeliciano/webdev/addbatch/package.json",
+		"/C/Users/rfeliciano/webdev/addbatch/.gitignore",
+		"/C/Users/rfeliciano/.forever/OkOn.log",
+		"/C/Users/rfeliciano/.forever/mqoB.log",
+		"/C/Users/rfeliciano/webdev/cert_share/bin/www",
+		"/C/Users/rfeliciano/quickill/app.js",
+		"/C/Users/rfeliciano/quickill/index.html",
+		"/C/Users/rfeliciano/quickill/package.json",
+		"/C/Users/rfeliciano/webdev/cert_share/public/js/app.js",
+		"/C/Users/rfeliciano/webdev/cert_share/public/index.html",
+		"/C/Users/rfeliciano/webdev/cert_share/app.js",
+		"/C/Users/rfeliciano/webdev/cert_share/package.json",
+		"/C/Users/rfeliciano/Documents/MAC Address Allow.txt",
+		"/C/Users/rfeliciano/Documents/firebase-test.json",
+		"/C/Users/rfeliciano/webdev/cert_share/index.html",
+		"/C/Users/rfeliciano/webdev/cert_share/routes/index.js",
+		"/C/Users/rfeliciano/Downloads/Fenix 64.cer",
+		"/C/Users/rfeliciano/webdev/cert_share/views/index.jade",
+		"/C/Program Files (x86)/Virtual Router/VirtualRouterService.InstallState",
+		"/C/Program Files (x86)/Virtual Router/VirtualRouterService.savedstate",
+		"/C/Users/rfeliciano/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/rfeliciano/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/components/Home.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5527,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2488,
+								2490
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Vue Syntax Highlight/Vue Component.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1821.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 81.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.stino_build_panel":
+	{
+		"height": 0.0
+	},
+	"output.stino_panel":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "alfred-client.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

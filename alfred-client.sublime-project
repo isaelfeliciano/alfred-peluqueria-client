@@ -1,0 +1,25 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"settings":
+	{
+		"caret_extra_width": 1,
+		"color_scheme": "Packages/Agila Theme/Agila Origin Oceanic Next.tmTheme",
+		"font_face": "mononoki",
+		"font_options":
+		[
+			"normal"
+		],
+		"font_size": 16,
+		"ignored_packages":
+		[
+			"Emmet",
+			"Vintage"
+		],
+		"theme": "Seti.sublime-theme"
+	}
+}
