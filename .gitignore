@@ -20,4 +20,5 @@ yarn-error.log*
 *.sln
 *.sw*
 
-*.sublime-project
+alfred-client.sublime-project
+alfred-client.sublime-workspace

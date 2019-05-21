@@ -34,7 +34,7 @@
 
     <!-- <div class="weather-box"></div> -->
 
-    <button @click="getInfo" class="btn-refresh" href="#"><i class="fas fa-2x" :class="btnRefreshClass"></i></button>
+    <button @click="getInfo" :class="btnRefreshClass" href="#"><i class="fas fa-2x" :class="btnRefreshClassIcon"></i></button>
   </div>
 </template>
 
@@ -45,7 +45,8 @@ export default {
     return {
       count: 'N/A',
       status: 'N/A',
-      btnRefreshClass: 'fa-sync-alt',
+      btnRefreshClass: 'btn-refresh __bg-purple',
+      btnRefreshClassIcon: 'fa-sync-alt',
       contactus: false,
       date: moment().format('dddd LL'),
       now: moment().format(),
@@ -57,7 +58,7 @@ export default {
   },
   methods: {
     getInfo () {
-      this.btnRefreshClass = 'fa-circle-notch fa-spin'
+      this.btnRefreshClassIcon = 'fa-circle-notch fa-spin'
       client.auth.loginWithCredential(new stitch.AnonymousCredential()).then(user =>
       console.log(`Logged with user id: ${user.id}`)
     ).then(() =>
@@ -65,17 +66,26 @@ export default {
     ).then(docs => {
         this.count = docs[0].count
         this.status = docs[0].status
-        this.btnRefreshClass = 'fa-sync-alt'
+        this.btnRefreshClass = 'btn-refresh __bg-green'
+        this.btnRefreshClassIcon = 'fa-check'
+        let timeout = setTimeout(() => {
+          this.btnRefreshClass = 'btn-refresh __bg-purple'
+          this.btnRefreshClassIcon = 'fa-sync-alt'
+        }, 2000)
         this.now = moment().format()
         this.fromNow = moment(this.now).fromNow()
         console.log("Found docs", docs)
         console.log("[MongoDB Stitch] Connected to Stitch")
         // let iframe = document.getElementById(document.getElementsByTagName('iframe')[0].id)
         // iframe.src = iframe.src
-        this.iframeSource = this.iframeSource
+        // this.iframeSource = this.iframeSource
     }).catch(err => {
       this.btnRefreshClass = 'fa-sync-alt'
       console.error(err)
+      this.$message({
+        message: 'No se pudo actualizar el conteo',
+        type: 'error'
+      })
     });
 
     },
@@ -116,6 +126,9 @@ div .hello {
 button {
   border: none;
   background: none;
+}
+button:focus {
+  outline: none;
 }
 header {
   width: 100%;
@@ -232,6 +245,8 @@ header {
 .contactus h2 {
   margin-bottom: 0.5rem;
   font-size: 1.1rem;
+  color: #a350fb;
+  font-weight: bold;
 }
 .contactus .title {
   color: #AEAEAE;
@@ -261,6 +276,12 @@ header {
 .__purple {
   color: #A350FB;
 }
+.__bg-purple {
+  background-color: #A350FB;
+}
+.__bg-green {
+  background-color: #8BC34A;
+}
 .__small-text {
   font-size: 0.7rem
 }
@@ -276,15 +297,14 @@ header {
 }
 
 .btn-refresh {
-  background-color: #A350FB;
+  /*background-color: #A350FB;*/
   /*padding: 30px;*/
   width: 60px;
   height: 60px;
   border-radius: 60px;
   color: #FFF;
-  position: relative;
+  position: fixed;
   border: none;
-  position: absolute;
   right: 1rem;
   bottom: 1rem;
 }
