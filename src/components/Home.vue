@@ -127,6 +127,9 @@ button {
   border: none;
   background: none;
 }
+button:hover {
+  opacity: 0.8;
+}
 button:focus {
   outline: none;
 }
