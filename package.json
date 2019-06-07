@@ -20,7 +20,9 @@
     "eslint": "^5.8.0",
     "eslint-plugin-vue": "^5.0.0",
     "nwjs-builder-phoenix": "^1.15.0",
-    "vue-template-compiler": "^2.5.21"
+    "vue-template-compiler": "^2.5.21",
+    "js-yaml": ">=3.13.1",
+    "webpack-bundle-analyzer": ">=3.3.2"
   },
   "eslintConfig": {
     "root": true,
