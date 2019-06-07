@@ -15,7 +15,7 @@
       <img class="email-header" src="../assets/email.png">
       <h2>Contactanos</h2>
       <p class="title">Email:
-        <span>alfred@alfredpeluqueria.com</span>
+        <span>alfredpeluqueria@gmail.com</span>
       </p>
       <p class="title">Telefono:
         <span>(829) 898-2704 (Whatsapp)</span>
